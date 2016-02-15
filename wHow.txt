@@ -1,0 +1,30 @@
+NONE CAN PUSH NOTIFY BECAUSE, NONE IS BASED ON Mobile Backend as a Service (mBaaS). So the functionality like ping can be achieved only if we store these reddit threads on a Database, but as Parse is fucked up now, we can utilize FireBase or Azure Services but fuck us cuz we have to use 3rd party push services for PUSHing then, cuz not even FireBase or Azure provide direct services to Push (I guess Azure does, but not clearly)
+
+UPDATE : 
+	> Parse fucked itself
+		- https://parse.com/
+			Parse's hosted services will be fully retired on January 28, 2017. We're proud that we've been able to help so many of you build great mobile apps. Read more on this announcement and what this means for your app here. Thank you for using Parse.
+
+Can use Xamarin so as to have multi platform architecture:
+	> http://developer.xamarin.com/
+	> priced, but might be availed by microsoft student developer program
+
+About fetching reddit stuffs:
+	> Reddit bot
+		- http://praw.readthedocs.org/en/stable/pages/writing_a_bot.html
+	> Reddit official API
+		- https://www.reddit.com/dev/api
+
+Git Stuffs that might help:
+	> https://github.com/timkim/O-Hai-Reddit (iOS)
+	> https://github.com/AndrewShidel/RedditApp (jS)
+	> https://github.com/maxme/reddit-aww (ionic/hybrid)
+	> https://github.com/robertguss/my-reddit (ionic/hybrid)
+	> https://github.com/DaCrAn/myRedditMusic (angular JS)
+	> https://github.com/pkalogiros/easyreddit (desk/web)
+	> https://github.com/isurakka/leddit (andro)
+	> https://github.com/QuantumBadger/RedReader (andro)
+
+Android Reddit Client HowTo:
+	> http://www.whycouch.com/2012/12/how-to-create-android-client-for-reddit.html
+
