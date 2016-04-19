@@ -14,6 +14,15 @@ GITusage:
 	https://github.com/mayankgureja/RedditJSON-Android
 	https://github.com/matthewmichihara/reddit-android
 	https://github.com/Redgram/redgram-for-reddit.git
+	https://github.com/yannickschuchmann/basic_countdown_notifier_android.git
+	https://github.com/illia-kramarenko/DailySelfie.git
+	https://github.com/qiaohe/pushNotificationService.git
+	*SCHEDULE IT*
+		https://github.com/aritchie/notifications.git
+		https://github.com/anipmehta/Schedule-Notification-android.git
+		https://github.com/Android162010/NotificationAlerts.git
+		https://github.com/qiaohe/pushNotificationService.git
+		https://github.com/skoryupina/MeetingScheduler.git
 	
 
 REDDITrealtimeAPI:
